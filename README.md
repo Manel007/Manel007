@@ -1,7 +1,7 @@
  Hi there  👋  I'm Manel 👩‍💻
 I am a third-year IT engineering student specializing in web development, with a focus on creating and designing user-friendly and innovative websites and applications.
 
-
+:crossed_swords:
 <!--
 **Manel007/Manel007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
